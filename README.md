@@ -9,3 +9,9 @@
 
 ## Tested
 - Windows(Pycharm)
+
+## Things To do
+- DO expeents in Static
+- Make this Calculator Bit more good Looking
+- Add backend logics
+- Apply your brain
