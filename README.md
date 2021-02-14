@@ -7,7 +7,8 @@
 - python3 -m virtualenv virtualenv
 - virtualenv\Scripts\activate
 - pip install requirements.txt
--  python3 manage.py runserver
+- python3 manage.py runserver
+- Go to localhost:8000/calculator
 
 ## Tested
 - Windows(Pycharm)
